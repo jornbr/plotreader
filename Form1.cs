@@ -611,7 +611,7 @@ namespace PlotReader
             this.menuRotate180.MergeIndex = 2;
             this.menuRotate180.Name = "menuRotate180";
             this.menuRotate180.Size = new System.Drawing.Size(206, 22);
-            this.menuRotate180.Text = "Rotate 180�";
+            this.menuRotate180.Text = "Rotate 180°";
             this.menuRotate180.Click += new System.EventHandler(this.menuRotateX_Click);
             // 
             // menuStraightenAxes
@@ -2110,7 +2110,7 @@ namespace PlotReader
                 case "Rotate right":
                     this.plotBox1.Rotation += 90F;
                     break;
-                case "Rotate 180�":
+                case "Rotate 180°":
                     this.plotBox1.Rotation += 180F;
                     break;
                 default:
