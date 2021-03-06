@@ -1896,7 +1896,7 @@ namespace PlotReader
             if (this.plotBox1.AxesState == 2)
             {
                 // Axes calibration complete
-                this.labelAxesAngle.Text = "Angle between axes: " + this.plotBox1.AxesAngle.ToString("F01") + "�";
+                this.labelAxesAngle.Text = "Angle between axes: " + this.plotBox1.AxesAngle.ToString("F01") + "°";
                 this.labelAxesAngle.Visible = true;
                 this.menuStraightenAxes.Enabled = true;
             }

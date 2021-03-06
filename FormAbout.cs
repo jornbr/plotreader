@@ -89,7 +89,7 @@ namespace PlotReader
             this.labelCopyright.Name = "labelCopyright";
             this.labelCopyright.Size = new System.Drawing.Size(264, 16);
             this.labelCopyright.TabIndex = 0;
-            this.labelCopyright.Text = "Copyright � 2004-2021, Jorn Bruggeman";
+            this.labelCopyright.Text = "Copyright © 2004-2021, Jorn Bruggeman";
             // 
             // labelRestrictedUse
             // 
