@@ -110,7 +110,7 @@ namespace PlotReader
             this.labelURL.Name = "labelURL";
             this.labelURL.Size = new System.Drawing.Size(200, 58);
             this.labelURL.TabIndex = 4;
-            this.labelURL.Text = "http://www.xs4all.nl/~jornbr/plotreader/";
+            this.labelURL.Text = "https://www.xs4all.nl/~jornbr/plotreader/";
             this.labelURL.Click += new System.EventHandler(this.labelURL_Click);
             // 
             // FormAbout

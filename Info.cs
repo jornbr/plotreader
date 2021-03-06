@@ -11,7 +11,7 @@ namespace PlotReader
 		{
 			get 
 			{
-				return "http://www.xs4all.nl/~jornbr/plotreader/";
+				return "https://www.xs4all.nl/~jornbr/plotreader/";
 			}
 		}
 	}
